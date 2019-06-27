@@ -68,5 +68,6 @@ eureka:
     prefer-ip-address: true 
 
 emp:
-  lisi
+  name:
+    lisi
 
